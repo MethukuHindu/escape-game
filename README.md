@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 Escape Room — Unity 3D Game
 
 A first-person 3D escape room game built in Unity where players must solve puzzles, find clues, and escape before the timer runs out.
@@ -201,3 +202,6 @@ See the `LICENSE` file for more information.
 This project was created as a beginner Unity 3D learning project to practice game development, puzzle systems, UI, interactions, and scene design.
 
 Thanks for checking out the project!
+=======
+# escape-game
+>>>>>>> origin/main
